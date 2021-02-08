@@ -5883,7 +5883,7 @@ footer p {
     max-height: 400px; } }
 @media (max-width: 960px) {
   .section-c .col-md-7 {
-    width: 100vh;
+    width: 100vw;
     height: 100vh; } }
 
 /*# sourceMappingURL=app.css.map */
